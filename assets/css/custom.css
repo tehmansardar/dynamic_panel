@@ -1,0 +1,5 @@
+.custom-card{ background: transparent; box-shadow: none; }
+.not-display { display: none; }
+
+.fieldAlertBorder { border: 1px solid red; }
+.notify-custom-msg { max-height: 120px; }
